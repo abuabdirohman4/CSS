@@ -1,7 +1,8 @@
+[submodule "css-3"]
+	path = css-3
+	url = git@github.com:abuabdirohman4/css-3.git
+	branch = master
 [submodule "css-layouting"]
 	path = css-layouting
 	url = git@github.com:abuabdirohman4/css-layouting.git
 	branch = master
-[submodule "css-3"]
-	path = css-3
-	url = git@github.com:abuabdirohman4/css-3.git
