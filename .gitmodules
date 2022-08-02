@@ -6,3 +6,6 @@
 	path = css-layouting
 	url = git@github.com:abuabdirohman4/css-layouting.git
 	branch = master
+[submodule "css-bootstrap"]
+	path = css-bootstrap
+	url = git@github.com:abuabdirohman4/css-bootstrap.git
