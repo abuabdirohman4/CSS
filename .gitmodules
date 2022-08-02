@@ -9,3 +9,8 @@
 [submodule "css-bootstrap"]
 	path = css-bootstrap
 	url = git@github.com:abuabdirohman4/css-bootstrap.git
+	branch = main
+[submodule "css-flexbox"]
+	path = css-flexbox
+	url = git@github.com:abuabdirohman4/css-flexbox.git
+	branch = main
