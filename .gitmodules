@@ -17,3 +17,6 @@
 [submodule "css-freecodecamp"]
 	path = css-freecodecamp
 	url = git@github.com:abuabdirohman4/css-freecodecamp.git
+[submodule "css-sass"]
+	path = css-sass
+	url = git@github.com:abuabdirohman4/css-sass.git
