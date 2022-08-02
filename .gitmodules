@@ -20,3 +20,6 @@
 [submodule "css-sass"]
 	path = css-sass
 	url = git@github.com:abuabdirohman4/css-sass.git
+[submodule "css-tailwind"]
+	path = css-tailwind
+	url = git@github.com:abuabdirohman4/css-tailwind.git
